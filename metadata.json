@@ -1,0 +1,6 @@
+{
+  "name": "교사 마음 치유 상담실",
+  "description": "지친 선생님들을 위해 따뜻한 위로와 맞춤형 마음 치유 상담, 호흡 테라피를 제공하는 심리 지원 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
